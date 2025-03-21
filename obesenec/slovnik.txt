@@ -1,0 +1,6 @@
+film 
+koncert
+hudba 
+kniha
+kino 
+divadlo
