@@ -1,0 +1,4 @@
+10;0;Šturovo
+5;0;Mestský park
+50;1;Dargovská 
+2;0;Nemocnica
